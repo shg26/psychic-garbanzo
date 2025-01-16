@@ -1,3 +1,4 @@
 # my first yaml file
 # no idea what I am doing
-name = "Stuart"
+name: Stuart
+age: 47
